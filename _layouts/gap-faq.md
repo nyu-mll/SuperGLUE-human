@@ -1,4 +1,4 @@
-# Winograd Schema FAQ
+# GAP FAQ
 
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
@@ -10,8 +10,8 @@ Sometimes this task can be tricky and we want you to get a sense of what the tas
 ### Can I immediately start working on the main project after completing training?
 Unfortunately no, there is no automatic way for us to add you to our qualified list of workers. We go through the submitted HITs on the training task at least once a day and add worker IDs to the qualified list. Once your name is on the list, you will be able to start work on the main annotation task.
 
-### Should the "No" label be more common than "Yes"?
-Ideally, yes. We already have labels for all of these examples, and we know that there are more "No" labeled examples than "Yes". So if you find yourself assigning slightly more "No" than "Yes" labels, don't be alarmed. If your responses are balanced or skew more towards "Yes", reconsider how you are evaluating the prompts.
+### Should the one label be less frequent than the others?
+Ideally, yes. We already have labels for all of these examples, and we know that there are fewer examples labeled "Neither". So if you find yourself assigning slightly more "Neither" less often than the other labels, don't be alarmed. If your responses are balanced or skew more towards "Neither", reconsider how you are evaluating the prompts.
 
 ### Will you reject my work?
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
