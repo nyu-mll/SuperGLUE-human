@@ -7,3 +7,4 @@ This site has all the instructions and FAQs for NYU's data colleciton effort on 
 - [Speaker Commitment FAQ](https://nyu-mll.github.io/SuperGLUE-human/commit-faq)
 - [Ultrafine Entity Typing FAQ](https://nyu-mll.github.io/SuperGLUE-human/ultra-faq)
 - [Question Paraphrase Detection FAQ](https://nyu-mll.github.io/SuperGLUE-human/paws-faq)
+- [Plausible Answer FAQ](https://nyu-mll.github.io/SuperGLUE-human/copa-faq)

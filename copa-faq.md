@@ -1,4 +1,4 @@
-# Paraphrase Detection FAQ
+# Plausible Answer FAQ
 
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
