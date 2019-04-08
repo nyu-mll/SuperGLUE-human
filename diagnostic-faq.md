@@ -5,13 +5,13 @@ Thanks for doing our HITs! With your help, we think we'll be able to build some 
 
 
 ### Why is there a training phase?
-Sometimes this task can be tricky and we want you to get a sense of what the task is before you work on the main project. We already have labels for these examples, and what we're doing here is gathering data to understand how well people perform on the task when they have some instructuions and a little bit of training. a
+Sometimes this task can be tricky and we want you to get a sense of what the task is before you work on the main project. We already have labels for these examples, and what we're doing here is gathering data to understand how well people perform on the task when they have some instructuions and a little bit of training.
+
+### Should the "False" label be more frequent than the "True"?
+Ideally, yes. We already have labels for all of these examples, and we know that there are slightly more examples labeled "False". So if you find yourself assigning "False" more often than "True", don't be alarmed. If your responses skew more towards "True", reconsider how you are evaluating the prompts.
 
 ### Can I immediately start working on the main project after completing training?
 Unfortunately no, there is no automatic way for us to add you to our qualified list of workers. We go through the submitted HITs on the training task at least once a day and add worker IDs to the qualified list. Once your name is on the list, you will be able to start work on the main annotation task.
-
-### Should the "False" label be more frequent than the "True"?
-Ideally, yes. We already have labels for all of these examples, and we know that there are slightly more examples labeled "False". So if you find yourself assigning "False" more often than the other "True", don't be alarmed. If your responses are balanced or skew more towards "True", reconsider how you are evaluating the prompts.
 
 ### Will you reject my work?
 No. Unless it's clear to us that you are assigning labels across many HITs without even considering the prompts, we won't reject any of your work.
