@@ -9,3 +9,4 @@ This site has all the instructions and FAQs for NYU's data colleciton effort on 
 - [Question Paraphrase Detection FAQ](https://nyu-mll.github.io/SuperGLUE-human/paws-faq)
 - [Plausible Answer FAQ](https://nyu-mll.github.io/SuperGLUE-human/copa-faq)
 - [Textual Entailment (Diagnostic) FAQ](https://nyu-mll.github.io/SuperGLUE-human/diagnostic-faq)
+- [Empathy and Distress FAQ](https://nyu-mll.github.io/SuperGLUE-human/empathy-faq)
