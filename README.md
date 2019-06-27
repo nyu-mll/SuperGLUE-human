@@ -11,3 +11,4 @@ This site has all the instructions and FAQs for NYU's data colleciton effort on 
 - [Textual Entailment (Diagnostic) FAQ](https://nyu-mll.github.io/SuperGLUE-human/diagnostic-faq)
 - [Empathy and Distress FAQ](https://nyu-mll.github.io/SuperGLUE-human/empathy-faq)
 - [Textual Entailment BC (Winogender) FAQ](https://nyu-mll.github.io/SuperGLUE-human/winogender-faq)
+- [Question Answering FAQ](https://nyu-mll.github.io/SuperGLUE-human/boolq-faq)
